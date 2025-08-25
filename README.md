@@ -36,7 +36,7 @@ JSON:
   "data": "SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3"
 }
 
-How It Works
+**How It Works**
 
 Uses Python’s socket module to listen for incoming connections
 
@@ -46,7 +46,7 @@ Sends fake banners for FTP, SSH, HTTP, and HTTPS services
 
 Logs all received data with timestamp, IP, and port
 
-Learning Outcomes
+**Learning Outcomes**
 
 Working with Python networking (socket) and multithreading (threading)
 
@@ -56,7 +56,7 @@ Basic emulation of network services
 
 Understanding honeypot concepts for cybersecurity
 
-Next Steps
+**Next Steps**
 
 Add more service emulations (SMTP, Telnet, etc.)
 
@@ -66,4 +66,4 @@ Add alert notifications for suspicious activity
 
 Build a simple GUI for monitoring connections
 
-Made by Mihai-Go
+**Made by Mihai-Go**
